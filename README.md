@@ -1,10 +1,11 @@
 # Jujutsu-Hand-Signs
 This project helps people who are fans of Jujutsu Kaisen to learn the different hand signals of many characters. It also serves an entertainment purpose for people who want to practice their skills and show their dedication to the anime through practicing hand signs.
-class 0 = Gojo 
-class 1 = nue
-class 2 = Sukuna
-class 3 = toad
-class 4 = wolf
+ 
+- class 0 = Gojo 
+- class 1 = nue
+- class 2 = Sukuna
+- class 3 = toad
+- class 4 = wolf
 I used image net and downloaded a data set from (https://universe.roboflow.com/) and searched for a dataset for jujutsu hand signals and then I trained the model to recognize different hand signals from the data set.
 
 # Steps
