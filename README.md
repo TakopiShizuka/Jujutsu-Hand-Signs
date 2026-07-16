@@ -34,4 +34,4 @@ NET=models/jjk
 DATASET=data/jjk
 
 
-Vidio explanation: https://drive.google.com/file/d/1Ff9mqQt9_VTPJ512cI6jB1rVlTA7-gMY/view?usp=sharing
+Video explanation: https://drive.google.com/file/d/1Ff9mqQt9_VTPJ512cI6jB1rVlTA7-gMY/view?usp=sharing
